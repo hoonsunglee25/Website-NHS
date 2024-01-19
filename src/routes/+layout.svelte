@@ -8,7 +8,7 @@
 <div class="flex h-screen">
 	<div class="nav-container px-7 py-6 w-72 border-r-2">
 		<a href="/">
-			<h2 class="text-3xl">Hoonsung Lee</h2>
+			<h2 class="text-3xl">Hoonsung Lee</h2>x
 			<h3 class="text-xl mb-12">Developer website</h3>
 		</a>
 		<nav>

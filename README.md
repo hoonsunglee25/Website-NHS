@@ -1,4 +1,5 @@
-# Source Code for hoonsung.dev
+# Source Code for NHS website
 
-A repository containing the source code for my personal website.
-it was created using sveltekit with typescript and tailwindcss.
+A repository containing the source code for the CCAS NHS website.
+
+it was created using Sveltekit with typescript and tailwindcss.
