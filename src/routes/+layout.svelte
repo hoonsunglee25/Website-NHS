@@ -8,18 +8,11 @@
 <div class="flex h-screen">
 	<div class="nav-container px-7 py-6 w-72 border-r-2">
 		<a href="/">
-			<h2 class="text-3xl">Hoonsung Lee</h2>x
-			<h3 class="text-xl mb-12">Developer website</h3>
+			<h2 class="text-3xl">CCAS NHS</h2>x
+			<h3 class="text-xl mb-12">Demo website</h3>
 		</a>
 		<nav>
 			<ul class="text-3xl mb-12">
-				<li>
-					<a class="group relative inline-block" href="Resume"
-						>Resume<span
-							class="absolute left-0 right-0 bottom-0 h-0.5 bg-black scale-x-0 group-hover:scale-x-100 transition-transform duration-100 origin-left"
-						></span>
-					</a>
-				</li>
 				<li>
 					<a class="group relative inline-block" href="Blog"
 						>Blog<span

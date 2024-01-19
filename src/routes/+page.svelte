@@ -1,30 +1,15 @@
 <article class="text-2xl text-pretty">
-	<h1 class="text-5xl font-light py-3">Homepage of Hoonsung Lee</h1>
+	<h1 class="text-5xl font-light py-3">ARTICLE I: NAME AND PURPOSE</h1>
 	<section class="py-3 leading-relaxed indent-7">
-		Hello! My name is Hoonsung Lee, and I am a high school student living in
-		Seoul, South Korea. <br />
-	</section>
-
-	<section class="py-3 leading-relaxed indent-7">
-		I am currently a student at
-		<a
-			class="text-red-500 hover:text-blue-900"
-			href="https://www.cornerstoneseoul.org/"
-		>
-			Cornerstone Collegiate Academy Seoul</a
-		>, where I spend most of my time studying mathmatics, history, and other
-		subjects while hanging out with my friends. Some of my hobbies include
-		<a
-			class="text-red-500 hover:text-blue-900"
-			href="https://solved.ac/profile/hoonsunglee88"
-		>
-			competitive programming</a
-		>, reading books, listening to lofi music, and finding
-		random-yet-interesting historical facts.
-	</section>
-
-	<section class="py-3 leading-relaxed indent-7">
-		Thank you for checking out my website; to learn more about it or myself,
-		check out the <s>link in description</s> the navigation bar to your left!
+		Section 1. The name of this organization shall be the Cornerstone Collegiate
+		Academy of Seoul’s chapter of National Honor Society (CCAS NHS).
+		<br />
+		Section 2. The purpose of CCAS NHS shall be to create enthusiasm for scholarship,
+		to stimulate a desire to render service, to promote leadership, and to develop
+		character in the students of secondary schools.
+		<br />
+		Section 3. NHS is a program of the National Association of Secondary School Principals
+		(NASSP), 1904 Association Drive, Reston, VA 20191-1537, a 501(c)(3) not-for-profit
+		association.
 	</section>
 </article>
